@@ -28,3 +28,5 @@
 ![Black](https://img.shields.io/badge/Black-555555?style=for-the-badge&logo=github&logoColor=white)
 ![Pylint](https://img.shields.io/badge/Pylint-555555?style=for-the-badge&logo=python&logoColor=white)
 ![Pre-commit](https://img.shields.io/badge/Pre--commit-555555?style=for-the-badge&logo=git&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white  )
+![Ansible](https://img.shields.io/badge/-Ansible-E60000?style=for-the-badge&logo=ansible&logoColor=white  )
