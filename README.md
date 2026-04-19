@@ -4,10 +4,10 @@
 
 ### Используемые технологии
 
-![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Structlog](https://img.shields.io/badge/Structlog-555555?style=for-the-badge&logo=python&logoColor=white)
-![Granian](https://img.shields.io/badge/Granian-555555?style=for-the-badge&logo=rust&logoColor=white)<br>
+![Granian](https://img.shields.io/badge/Granian-555555?style=for-the-badge&logo=rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-555555?style=for-the-badge&logo=python&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
