@@ -20,7 +20,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-FFD142?style=for-the-badge&logo=grafana&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-Elasticsearch_Logstash_Kibana-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-555555?style=for-the-badge&logo=python&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-555555?style=for-the-badge&logo=python&logoColor=white)
