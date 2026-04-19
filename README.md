@@ -1,3 +1,29 @@
 ## Контакты
 - Email: [stds58@gmail.com](mailto:stds58@gmail.com)
 - Telegram: [@TheColourOfMagic](https://t.me/TheColourOfMagic)
+
+### Используемые технологии
+
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Structlog](https://img.shields.io/badge/Structlog-555555?style=for-the-badge&logo=python&logoColor=white)
+![Granian](https://img.shields.io/badge/Granian-555555?style=for-the-badge&logo=rust&logoColor=white)<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-555555?style=for-the-badge&logo=python&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![StatsD](https://img.shields.io/badge/StatsD-555555?style=for-the-badge&logo=datadog&logoColor=white)
+![Node Exporter](https://img.shields.io/badge/Node_Exporter-555555?style=for-the-badge&logo=linux&logoColor=white)
+![Telegraf](https://img.shields.io/badge/Telegraf-22A699?style=for-the-badge&logo=influxdb&logoColor=white)
+![Grafana Alloy](https://img.shields.io/badge/Grafana_Alloy-555555?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-FFD142?style=for-the-badge&logo=grafana&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-Elasticsearch_Logstash_Kibana-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![uv](https://img.shields.io/badge/uv-555555?style=for-the-badge&logo=python&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-555555?style=for-the-badge&logo=python&logoColor=white)
+![Black](https://img.shields.io/badge/Black-555555?style=for-the-badge&logo=github&logoColor=white)
+![Pylint](https://img.shields.io/badge/Pylint-555555?style=for-the-badge&logo=python&logoColor=white)
+![Pre-commit](https://img.shields.io/badge/Pre--commit-555555?style=for-the-badge&logo=git&logoColor=white)
