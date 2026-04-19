@@ -18,7 +18,6 @@
 ![StatsD](https://img.shields.io/badge/StatsD-555555?style=for-the-badge&logo=datadog&logoColor=white)
 ![Node Exporter](https://img.shields.io/badge/Node_Exporter-555555?style=for-the-badge&logo=linux&logoColor=white)
 ![Telegraf](https://img.shields.io/badge/Telegraf-22A699?style=for-the-badge&logo=influxdb&logoColor=white)
-![Grafana Alloy](https://img.shields.io/badge/Grafana_Alloy-555555?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-FFD142?style=for-the-badge&logo=grafana&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
